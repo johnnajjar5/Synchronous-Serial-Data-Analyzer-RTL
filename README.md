@@ -107,7 +107,10 @@ This section will include:
 ## 👨‍💻 Author
 
 **John Najjar**  
+
 **Omar Majdoub**
+
 **Oday Haj**
+
 Electrical & Electronics Engineering Graduate  
 Braude Academic College of Engineering
